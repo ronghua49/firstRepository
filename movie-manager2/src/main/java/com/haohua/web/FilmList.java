@@ -40,7 +40,7 @@ public class FilmList extends BaseServlet{
 
 
 	public void test(){
-		System.out.println("aaa");
+		System.out.println("aaab");
 	}
 	
 }
