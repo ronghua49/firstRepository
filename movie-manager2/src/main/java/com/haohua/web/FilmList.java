@@ -44,6 +44,11 @@ public class FilmList extends BaseServlet{
 	}
 
 
+	public void test3(){
+		System.out.println("master add2");
+	}
+
+
 
 
 
