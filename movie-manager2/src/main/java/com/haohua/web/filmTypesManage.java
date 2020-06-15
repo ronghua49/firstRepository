@@ -53,4 +53,9 @@ public class filmTypesManage extends BaseServlet {
 			service.editType(editName,editTypeId);
 		}
 	}
+
+	public void test4(){
+
+		System.out.println("change film");
+	}
 }
