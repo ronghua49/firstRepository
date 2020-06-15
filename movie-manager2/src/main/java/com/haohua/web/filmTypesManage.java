@@ -56,6 +56,6 @@ public class filmTypesManage extends BaseServlet {
 
 	public void test4(){
 
-		System.out.println("change film");
+		System.out.println("change film b1");
 	}
 }
