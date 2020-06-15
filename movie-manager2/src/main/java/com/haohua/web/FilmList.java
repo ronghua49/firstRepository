@@ -44,7 +44,7 @@ public class FilmList extends BaseServlet{
 	}
 
 	public void test2(){
-		System.out.println("add2");
+		System.out.println("add3");
 	}
 	
 }
