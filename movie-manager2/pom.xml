@@ -14,7 +14,7 @@
 		<guava-version>23.0</guava-version>
 		<ehcache-version>2.10.4</ehcache-version>
 		<ojdbc-version>10.2.0.4.0</ojdbc-version>
-		<mybatis-verison>3.4.5</mybatis-verison>
+		<mybatis-verison>3.5.6</mybatis-verison>
 		
 	</properties>
 
