@@ -10,7 +10,7 @@
 	<properties>
 		<slf4j-version>1.7.25</slf4j-version>
 		<logback-version>1.2.3</logback-version>
-		<logback-core-version>1.1.7</logback-core-version>
+		<logback-core-version>1.2.0</logback-core-version>
 		<guava-version>23.0</guava-version>
 		<ehcache-version>2.10.4</ehcache-version>
 		<ojdbc-version>10.2.0.4.0</ojdbc-version>
